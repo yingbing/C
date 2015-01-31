@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+/**************************************************
+dynamicArrayOneDimensional.c
+输入N个数，求平均数
+**************************************************/
 main()
 {
 	int *p = NULL, n, i, sum;
